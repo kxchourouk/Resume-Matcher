@@ -17,7 +17,7 @@ class TextCleaner:
             Lemmatization is the process of grouping together the different inflected forms of a word so they
             can be analyzed as a single item. For example, running, runs, ran, and run
             
-            it is very important in NLP because it helps normallize words so that different forms of the same wrod are treated as identical,
+            it is very important in NLP because it helps normallize words so that different forms of the same word are treated as identical,
             symplifying the analysis and interpretation of text.
 
             In the NLTK library (Natural Language Toolkit) in Python, the WordNetLemmatizer class is commonly used for lemmatization.
